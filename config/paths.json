@@ -1,0 +1,7 @@
+  {
+    "raw_input": "input/vaccine/COVID-19_Vaccinations_in_the_United_States_County-1.xlsx",
+    "raw_output": "output/raw/vaccine_data/",
+    "raw_output_invalid": "output/raw/vaccine_data_invalid/",
+      "pre_processed_data": "output/curated/pre_processed_data/",
+      "processed_data": "output/curated/processed_data/"
+  }
